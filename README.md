@@ -1,3 +1,2 @@
 # Stonehenge
-A game including basic ai oppoment design, 148 project(winter 2018) from U of t.\
-Assignment 2.
+A basic start up game including basic ai oppoment design, with recursive/iterative design.
